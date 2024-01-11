@@ -3,6 +3,12 @@ Swapapp allows you to easilly create edit and delete swap files for linunx machi
 
 ![imageedit_14_3059041997](https://github.com/alkisqwe/swapapp/assets/73914940/6f8f0694-8e8f-4fd8-b6e7-d4b9c6575f3a)
 
+# Installation
+
+```
+pip3 install -r requirements.txt
+```
+
 # Usage
 ```
 python3 swapapp.py
