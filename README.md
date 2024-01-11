@@ -7,7 +7,7 @@ Swapapp allows you to easilly create edit and delete swap files for linunx machi
 ```
 python3 swapapp.py
 ```
-available arguements
+available parameters
 ```
 usage: swapapp.py
  -h,--help                   give this help list
